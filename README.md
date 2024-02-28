@@ -1,0 +1,2 @@
+# -projects
+libraryManagement-main
